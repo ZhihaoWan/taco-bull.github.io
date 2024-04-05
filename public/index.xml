@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 16:45:20 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Thu, 04 Apr 2024 16:45:20 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;the-first-week-110--mnist-to-implement-the-mnist-classify&#34;&gt;The first week 1/10 = MNIST to implement the MNIST Classify&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🍨 本文为&lt;a href=&#34;https://mp.weixin.qq.com/s/0dvHCaOoFnW8SCp3JpzKxg&#34;&gt;🔗365天深度学习训练营&lt;/a&gt; 中的学习记录博客&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🍖 原作者：&lt;a href=&#34;https://mtyjkh.blog.csdn.net/&#34;&gt;K同学啊&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
